@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "render-docs": {
+      "type": "remote",
+      "url": "https://mcp.inkeep.com/render/mcp"
+    },
+    "renderMCPServer": {
+      "type": "remote",
+      "url": "https://mcp.render.com/mcp"
+    }
+  }
+}
