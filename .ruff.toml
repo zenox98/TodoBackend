@@ -1,0 +1,9 @@
+[lint]
+select = ["E", "F", "I"]
+ignore = ["F401"] # Ignore unused imports if preferred, though I already deleted them. 
+
+[format]
+quote-style = "single"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "lf"
